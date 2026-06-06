@@ -1,0 +1,12 @@
+# Generated outputs (recreated by build_kinases.R)
+data_out/
+
+# Cached source files (auto-downloaded by build_kinases.R) -- keep docs only
+data_in/*
+!data_in/SOURCES.md
+
+# macOS / R artifacts
+.DS_Store
+.Rhistory
+.RData
+.Rproj.user/
